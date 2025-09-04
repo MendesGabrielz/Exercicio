@@ -1,0 +1,184 @@
+body {
+
+    background-color: white;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topo {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+
+    h1 {
+
+        margin-bottom: 0px;
+        color: #4a53cf;
+    }
+
+    h6 {
+
+        margin-top: 0px;
+    }
+
+}
+
+.imagem {
+
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.corpo {
+
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.WhatsApp {
+
+    display: flex;
+    width: 400px;
+    padding: 10px;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #00695b;
+
+    img {
+
+        margin-right: 130px;
+    }
+
+    p {
+
+        color: white;
+
+    }
+
+}
+
+
+.imagens-cubo {
+
+    width: 40px;
+}
+
+.Telegram {
+
+
+    display: flex;
+    width: 400px;
+    padding: 10px;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #1564c0;
+
+    img {
+
+        margin-right: 130px;
+    }
+
+    p {
+
+        color: white;
+    }
+}
+
+.Twitter {
+
+    display: flex;
+    width: 400px;
+    padding: 10px;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #1da1f3;
+
+    img {
+
+        margin-right: 130px;
+    }
+
+    p {
+
+        color: white;
+    }
+}
+
+.Instagram {
+
+    display: flex;
+    width: 400px;
+    padding: 10px;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #f67c01;
+
+    img {
+
+        margin-right: 130px;
+    }
+
+    p {
+
+        color: white;
+    }
+}
+
+.Youtube {
+
+    display: flex;
+    width: 400px;
+    padding: 10px;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #f80000;
+
+    img {
+
+        margin-right: 100px;
+    }
+
+    p {
+
+        color: white;
+    }
+}
+
+.Linkedin {
+
+    display: flex;
+    width: 400px;
+    padding: 10px;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #0e47a1;
+
+    img {
+
+        margin-right: 130px;
+    }
+
+    p {
+
+        color: white;
+    }
+}
+
+.fundo{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 175px;
+    color: #4a53cf;
+    font-size: small;
+}
